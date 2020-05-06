@@ -5,3 +5,5 @@ Apple
 Banana
 Orange
 Carrots
+Mango
+Rice
